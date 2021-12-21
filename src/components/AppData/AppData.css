@@ -1,0 +1,23 @@
+.appData {
+  display: grid;
+  place-items: center;
+  margin-top: 20px;
+
+  /* margin-left: 10px; */
+}
+.appData_name {
+  background-color: #01131b;
+}
+
+.appData_text {
+  color: white;
+  cursor: pointer;
+}
+.appData_tag {
+  color: green;
+  margin-left: 12px;
+  border-bottom: 1.5px dotted white;
+  padding: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}

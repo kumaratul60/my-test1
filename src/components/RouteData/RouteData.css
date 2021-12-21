@@ -1,0 +1,21 @@
+.routeData {
+  display: grid;
+  place-items: center;
+  margin-top: 20px;
+
+  /* margin-left: 10px; */
+}
+.routeData_name {
+  background-color: #01131b;
+}
+
+.routeData_text {
+  color: green;
+}
+.routeData_text1 {
+  color: white;
+  margin-left: 12px;
+  /* border-bottom: 1.5px dotted white; */
+  padding: 10px;
+  margin-bottom: 20px;
+}
